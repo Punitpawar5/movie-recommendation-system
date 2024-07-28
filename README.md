@@ -1,6 +1,8 @@
 # movie-recommendation-system
 Built a movie recommendation system using machine learning. When the user searches for a movie, it will recommend the top similar movies. This repository contains an end-to-end movie recommendation system built using a dataset of 5000 TMDB movies. The system is built using Python and the Streamlit library. The core functionality relies on the TMDB API to access movie data. The project aims to provide users with a user-friendly interface to get movie recommendations based on their input. It takes into account movie names, genres, cast, and crew to provide accurate recommendations.
 
+![Demo](https://github.com/Punitpawar5/movie-recommendation-system/blob/main/project.gif)
+
 Key Features: User-Friendly Interface: The interface is built using Streamlit, making it easy to use even for non-technical users.
 
 Movie Recommendations: Users can input a movie title, and the system will provide a list of recommended movies based on similarity.
