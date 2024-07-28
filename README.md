@@ -3,7 +3,10 @@ Built a movie recommendation system using machine learning. When the user search
 
 ![Demo](https://github.com/Punitpawar5/movie-recommendation-system/blob/main/project.gif)
 
-Key Features: User-Friendly Interface: The interface is built using Streamlit, making it easy to use even for non-technical users.
+## Key Features🛠 
+Content Base System: In this, I have used a Content-Base System that uses the attributes/tags/keywords of items in order to make recommendations.
+
+User-Friendly Interface: The interface is built using Streamlit, making it easy to use even for non-technical users.
 
 Movie Recommendations: Users can input a movie title, and the system will provide a list of recommended movies based on similarity.
 
@@ -17,27 +20,6 @@ Deployment: The project can be deployed on various platforms like Streamlit Shar
 
 Dependencies: Streamlit: To build the user interface. Pandas: For data manipulation. Requests: For making HTTP requests to the TMDB API.
 
-## Project Structure
-
-```plaintext
-movie-recommendation-system/
-│
-├── data/
-│   ├── tmdb_movies.csv
-│
-├── notebooks/
-│   ├── data_preparation.ipynb
-│   ├── feature_engineering.ipynb
-│   ├── model_training.ipynb
-│   ├── api_deployment.ipynb
-│
-├── src/
-│   ├── __init__.py
-│   ├── data_preparation.py
-│   ├── feature_engineering.py
-│   ├── model_training.py
-│   ├── api.py
-│
-├── Dockerfile
-├── requirements.txt
-├── README.md
+## 🔗 Get In Touch
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/punit-pawar5/)
+[![github](https://img.shields.io/badge/github-333333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Punitpawar5/)
